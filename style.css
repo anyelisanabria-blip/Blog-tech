@@ -5,3 +5,10 @@ heardr{
     max-width: 800px;
     margin: 0 auto;
 }
+
+main{
+    background-color: aliceblue;
+    color: blue;
+    max-width: 800px;
+    margin: 0 auto;
+}
